@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sports/static/css/main.da18cc02.css",
-    "main.js": "/sports/static/js/main.6cfc19cb.js",
+    "main.js": "/sports/static/js/main.c1423f80.js",
     "static/media/tshirt15.png": "/sports/static/media/tshirt15.0fbe4322fa9b5eca2003.png",
     "static/media/tshirt12.png": "/sports/static/media/tshirt12.98a6ab6c43014d5f6874.png",
     "static/media/tshirt02.png": "/sports/static/media/tshirt02.955ef3425a553cadb786.png",
@@ -26,10 +26,10 @@
     "static/media/glyphicons-halflings-regular.woff2": "/sports/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/sports/index.html",
     "main.da18cc02.css.map": "/sports/static/css/main.da18cc02.css.map",
-    "main.6cfc19cb.js.map": "/sports/static/js/main.6cfc19cb.js.map"
+    "main.c1423f80.js.map": "/sports/static/js/main.c1423f80.js.map"
   },
   "entrypoints": [
     "static/css/main.da18cc02.css",
-    "static/js/main.6cfc19cb.js"
+    "static/js/main.c1423f80.js"
   ]
 }
