@@ -11,6 +11,7 @@ import Product from "./components/product/Product";
 const ContainerRoutes = () => {
   return (
     <Routes>
+    <Route path="/sports" element={<Introduction />} />
       <Route path="/about-us" element={<AboutUs />} />
       <Route path="/active-wear" element={<ActiveWear />} />
       <Route path="/contact-us" element={<ContactUs />} />
