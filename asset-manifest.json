@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sports/static/css/main.da18cc02.css",
+    "main.js": "/sports/static/js/main.6cfc19cb.js",
+    "static/media/tshirt15.png": "/sports/static/media/tshirt15.0fbe4322fa9b5eca2003.png",
+    "static/media/tshirt12.png": "/sports/static/media/tshirt12.98a6ab6c43014d5f6874.png",
+    "static/media/tshirt02.png": "/sports/static/media/tshirt02.955ef3425a553cadb786.png",
+    "static/media/tshirt13.png": "/sports/static/media/tshirt13.04b1db701135d70750f6.png",
+    "static/media/tshirt07.png": "/sports/static/media/tshirt07.a22000ff9314e4498936.png",
+    "static/media/tshirt11.png": "/sports/static/media/tshirt11.63afcf934c181ae27082.png",
+    "static/media/tshirt08.png": "/sports/static/media/tshirt08.f114f5ec6943b9938904.png",
+    "static/media/tshirt09.png": "/sports/static/media/tshirt09.202db78189b8610634b7.png",
+    "static/media/tshirt04.png": "/sports/static/media/tshirt04.96ce74c1a9f6a344deb7.png",
+    "static/media/tshirt10.png": "/sports/static/media/tshirt10.df9168a99a706fc0a1c0.png",
+    "static/media/tshirt01.png": "/sports/static/media/tshirt01.0853f54ae39be17b5625.png",
+    "static/media/cover1.jpeg": "/sports/static/media/cover1.630a1430fa6e61a71bf9.jpeg",
+    "static/media/tshirt03.png": "/sports/static/media/tshirt03.d554934efce0f7c44dde.png",
+    "static/media/tshirt14.png": "/sports/static/media/tshirt14.dcbb70a6fee00eced30c.png",
+    "static/media/glyphicons-halflings-regular.svg": "/sports/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/tshirt05.png": "/sports/static/media/tshirt05.31814a4808b8583c7203.png",
+    "static/media/tshirt06.png": "/sports/static/media/tshirt06.e68a5e5b5201992568ac.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/sports/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/Logo.png": "/sports/static/media/Logo.0d54ad5e2ad4443d53ad.png",
+    "static/media/glyphicons-halflings-regular.woff": "/sports/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/sports/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/sports/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/sports/index.html",
+    "main.da18cc02.css.map": "/sports/static/css/main.da18cc02.css.map",
+    "main.6cfc19cb.js.map": "/sports/static/js/main.6cfc19cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da18cc02.css",
+    "static/js/main.6cfc19cb.js"
+  ]
+}
